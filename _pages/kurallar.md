@@ -1,0 +1,4 @@
+---
+title: "Kurallar"
+permalink: /kurallar/
+---

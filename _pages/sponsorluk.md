@@ -1,0 +1,4 @@
+---
+title: "Sponsorluk"
+permalink: /sponsorluk/
+---

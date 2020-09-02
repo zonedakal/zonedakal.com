@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Kurallar"
+    url: /kurallar/
+  - title: "Skor Tablosu"
+    url: /skorlar/
+  - title: "Skor Giriş"
+    url: /skorgiris/
+  - title: "Hakkımızda"
+    url: /hakkimizda/
+  - title: "Sponsorluk"
+    url: /sponsorluk/
