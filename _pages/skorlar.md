@@ -9,3 +9,4 @@ author_profile: false
 | ZONEDAKAL1 |  500000 |
 | ZONEDAKAL2 |  500000 |  
 | ZONEDAKAL3 |       3 |
+| ZONEDAKAL3 |       4 |
