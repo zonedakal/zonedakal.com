@@ -1,6 +1,6 @@
 ---
 permalink: /kaydol/
-title: "kaydol"
+title: "KAYDOL"
 author_profile: false
 ---
 
