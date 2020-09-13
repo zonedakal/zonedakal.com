@@ -3,44 +3,68 @@ title: "Kurallar"
 permalink: /kurallar/
 author_profile: false
 ---
+## TRIOS TURNUVASI
 
-Oyun Modu: (Her turnuva burasi degisecektir)
-
-Turnuva uclu takimlar halinde gerceklesecektir.
-
-3 Saat boyunca istediginiz kadar oyun oynanilacaktir Maclardan erken cikmak serbesttir.
-
-Takimlar turnuva bittikten sornra EN IYI 4 OYUNLARINI internet sitesinde skor giris bolumune girecektir
-
-Trios lobilerinde oyananacaktir. “3lu takim halinde quad mac girmek skorun gecerliligini iptal eder.
-
-Mac esnasinda bir takim arkadasiniz oyunda duser ise oyuna devam edebilirsiniz. Fakat mac bitiminden sonra da gelmezse turnuvaya geri donemezsiniz.
-
-Crossplay her zaman acik olacaktir.
+* Turnuva üçlü takımlar halinde gerçekleşecektir
+* 3 saat boyunca istediğiniz kadar oyun oynanılabilecektir
+* Maçlardan erken çıkmak serbesttir
+* Takımlar turnuva bittikten sonra en iyi 4 oyunlarını internet sitesinde skor giriş bölümüne girecektir
+* Turnuva trios lobilerinde oyananacaktır. 3lü takım halinde quad maç girmek skorun geçerliliğini iptal eder
+* Maç sırasında bir takım arkadaşınız oyundan düşer ise oynadığınız oyuna devam edebilirsiniz. Fakat maç bitiminden sonra da gelmez ise turnuvaya geri dönemezsiniz
+* Crossplay her zaman açık olacaktır
+* Her hafta oyuncuların oylarıyla sonraki haftanın oyun modu belirlenecektir
 
 
-Turnuva Zamani: Her Cumartesi Saat 20:00-23:00 22:59’dan once girilen maclar sayilacaktir.
+### Turnuva Tarihi
+* Her Cumartesi Saat 20:00-23:00
+* Cumartesi saat 22:59’dan önce girilen maçlar sayılacaktır
 
-Toplam odul havuzu sadece ilk 3 takima birincilik %50 ikincilik %30 ucunculuk ise %20 seklinde dagitilacaktir. 4. Ve 5. Takimlar baska zaman kullanmak uzere takimdaki oyuncu sayisi kadar bedava bilet alacaklardir.  (ilk uc sira bedava bilet alamayacaktir)
+### Ödül Havuzu
+* Ödül havuzu 2100 türk lirasıdır
+* 1. takım için 1200 Türk Lirası
+* 2. takım için 600 Türk Lirası
+* 3. takım için 300 Türk Lirası
+* 4. ve 5. takımdaki her oyuncu için gelecek turnuvalara bedava katılım hakkı.
 
-Turnuva’da dusundugunuz iyi hareketlerinizi twitter adresimizi tagliyip paylasarak 150 tllik turnuvanin en iyi hareketi odulunu kazanabilirsiniz.
+Turnuva boyunca yaptığınız iyi hareketleri twitter adresimizi tagleyip paylaşarak 150 tllik turnuvanın en iyi hareketi ödülünü kazanabilirsiniz.
 
-Twitter adresimiz ….
+Twitter adresimiz: https://twitter.com/zonedakal
 
-Yayin zorunlulugu:
+### Yayın Zorunluluğu
 
-Her takimdan bir kisi turnuva boyunca yayin yapma zorunlulugundadir.
+* Her takımdan bir kişi turnuva boyunca yayın yapmak zorundadır (Birden fazla kişi de yapabilir)
+* Yayında kamera veya mikrofonun açık olma zorunluluğu yoktur sadece görüntü yeterlidir
+* Yayın yaptığınız platformda yayın tekrarı açık olmalıdır
+* Yayınınız turnuva saatinden önce başlamalıdır.
+* Eğer yayınınız turnuva esnasında kesilirse tekrar başlatmadan atmış olduğunuz oyunlar geçersizdir
+* Teknik aksiliklere fazladan zaman tanınmayacaktır
+* Twitch, Facebook veya Youtube platformlarında yayın yapılmalıdır
+* Yayınınızın twitch kanalımızda sunulmasını isterseniz bize mail adresimizden (zonedakal@gmail.com) twitch kanalınızı bildirerek ulaşabilirsiniz
+* Turnuva esnasında bütün yayıncıların twitch başlığına #ZONEDAKAL yazması zorunludur
 
-Yayin da kamera acma veya ses zorunlulugu yoktur sadece goruntu yeterdir.
+### Skor Girişi
+* Maç sonu her takımdan bir kişi skorların girişini internet sitemizdeki skor giriş sayfası üzerinden gerçekleştirecektir
+* Eğer skorlar aynı ise, kişisel olarak alınan en fazla kille sahip oyuncunun takımı galip gelecektir
+* Her takım maç skorlarını girerken clip bölmesine skorların cliplerini koyacaklardır
+* Skorları girmeniz için turnuva bitimi sonrası 30 dakikanız olacaktır (23:30)
+* Yalnızca internet sitesine girilen skorlar sayılacaktır. Adminlere gönderilen skorlar sayılmayacaktır
+* Skor tablosu Pazar günü saat 20:00 da gxenttv twitch adresinde açıklanacaktır.
 
-Yayin yaptiginiz platformda yayin tekrarinizin acik olmasi zorunludur.
+### Skor Tablosu
+* Her KILL = 1 puan
+* 1.lik 10 puan
+* 2.lik 7 puan
+* 3.lük 5 puan
+* 4.lük 3 puan
+* 5.lik 1 puan
 
-Yayininiz turnuva saati gelmeden once baslamalidir.
+### İzin Verilen Platformlar
+* Bütün platformlarda turnuvamıza katılabilirsiniz
 
-Eger yayininiz turnuva esnasinda kesilirse tekrar baslatmadan attiginiz oyunlar gecersizdir.
+### Canlı Yayında Sunum
+Şu anda turnuvada sponsoru olduğumuz yayıncılar hariç 15 farklı takim canlı yayında sunulacaktır. Sunulmak isteyen takımlar turnuvaya başvurduktan sonra mail üzerinden iletişime geçebilirler. 15 den fazla takım sunulmak isterse çekiliş yapılıp sunulacak 15 takım turnuvadan önce discord kanalımızdan açıklanacaktır.
 
-Yayin kalitesi tamamiyle size kalmistir fakat dusuk kalitedeki yayinlari twitch adresimizde sunamayacagizdir.
-
-Teknik aksiliklere ayriyetten zaman taninmayacaktir.
-
-Twitch, Facebook veya Youtube platformlarinda yayin yapilmalidir.
+### ÖNEMLİ
+* Turnuvaya katılmak için Türkiye’de yaşama zorunluluğu yoktur fakat turnuva sadece TÜRKİYE CUMHURİYETİ VATANDAŞLARI içindir. Eğer farklı bir ülkede yaşıyorsanız turnuvaya saatinde gelmeniz sizin sorumluluğunuzdur.
+* Hile ve hack kullanımıyla alınan bütün kararlar Zone’da Kal ekibi tarafından ortak verilen kurallardır. Adminlerimize yapılan her türlü hakaret edici söz turnuvalarımızdan kalıcı ban sebebidir.
+* 26 Eylül Turnuvamıza katılmış olan oyuncular 3 Ekim Cumartesi yapılacak olan turnuvamıza %50 indirim ile katılabileceklerdir
