@@ -21,10 +21,10 @@ author_profile: false
 
 ### Ödül Havuzu
 * Ödül havuzu 2100 türk lirasıdır
-* 1. takım için 1200 Türk Lirası
-* 2. takım için 600 Türk Lirası
-* 3. takım için 300 Türk Lirası
-* 4. ve 5. takımdaki her oyuncu için gelecek turnuvalara bedava katılım hakkı.
+* Birinci takım için 1200 Türk Lirası
+* İkinci takım için 600 Türk Lirası
+* Üçüncü takım için 300 Türk Lirası
+* Dördüncü ve beşinci takımdaki her oyuncu için gelecek turnuvalara bedava katılım hakkı.
 
 Turnuva boyunca yaptığınız iyi hareketleri twitter adresimizi tagleyip paylaşarak 150 tllik turnuvanın en iyi hareketi ödülünü kazanabilirsiniz.
 
