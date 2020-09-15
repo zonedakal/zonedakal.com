@@ -24,7 +24,7 @@ author_profile: false
 * Birinci takım için 1200 Türk Lirası
 * İkinci takım için 600 Türk Lirası
 * Üçüncü takım için 300 Türk Lirası
-* Dördüncü ve beşinci takımdaki her oyuncu için gelecek turnuvalara bedava katılım hakkı.
+* Dördüncü ve beşinci takımdaki her oyuncu için gelecek turnuvalardan herhangi bir tanesinde geçerli olacak bedava katılım hakkı.
 
 Turnuva boyunca yaptığınız iyi hareketleri twitter adresimizi tagleyip paylaşarak 150 tllik turnuvanın en iyi hareketi ödülünü kazanabilirsiniz.
 

@@ -16,8 +16,7 @@
 title: ""
 logo: "/assets/images/logo_temp.png"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  zonedakal.com
+description: Türkiye’nin ilk Warzone turnuvası: Zonedakal
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: neon
