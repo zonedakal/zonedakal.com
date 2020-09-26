@@ -48,7 +48,9 @@ Twitter adresimiz: https://twitter.com/zonedakal
 * Her takım maç skorlarını girerken clip bölmesine skorların cliplerini koyacaklardır
 * Skorları girmeniz için turnuva bitimi sonrası 30 dakikanız olacaktır (23:30)
 * Yalnızca internet sitesine girilen skorlar sayılacaktır. Adminlere gönderilen skorlar sayılmayacaktır
-* Skor tablosu Pazar günü saat 20:00 da gxenttv twitch adresinde açıklanacaktır.
+* Skor tablosu Pazar günü saat 20:00 da zonedakal twitch adresinde açıklanacaktır.
+
+Twitch adresimiz: https://www.twitch.tv/zonedakal
 
 ### Skor Tablosu
 * Her KILL = 1 puan
