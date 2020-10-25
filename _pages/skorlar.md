@@ -4,6 +4,23 @@ permalink: /skorlar/
 author_profile: false
 ---
 
+#### 25 10 2020 Duos Turnuvası Sonuçları
+
+||Takım Adı |	Oyuncular		|Final Skor|	1. Maç Kill Sayıları|	2. Maç Kill Sayıları	|3. Maç Kill Sayıları	|4. Maç Kill Sayıları|	Yerleşme Puanları Toplam
+|1|3080 Brotherhood	|Aegis54#5603792	Akif240HZ#0	|206	|45|	39|	35	|47|	40
+|2|Team Okcash	|okcash#1037537	TR_KEHPACHI#7550224	|176	|41	|41	|36|	28	|30
+|3|Coallular|	Czathu#0	niyesuh#0	|167	|34	|37|	37|	46	|13
+|4|icruh|	ıcruh#9015149	kukora#2713783	|164	|48	|33	|49|	19|	15
+|5|Unique Squad	|CIuen#1414767	Birdofhermes#4673193|	157|	29	|26	|45	|41	|16
+|6|ALPHA|	Masterpiece#7175032	DarkSide#9341499	|151|	31|	40	|25	|25	|30
+|7|Tamtum's Team	|Tamtum#7489271	Shanks#2172363	|149	|30|	41|	34|	17|	27
+|8|twitch.tv/ErenTurkcan|	ErenTurkcan#1769276	Mertozkurtt#8437143	|145	|29	|26	|32|	38	|20
+|9|TURC0	|abrakadabra#8875465	Shanks#2172363|	138	|31|	22	|26|	32|	27
+|10|Rookies|	kzakhan#2251430	Ubermenschtv#5039918|	128|	26	|26|	30|	22|	24
+|11|Team SAD|	RALK#4645606	zoi#9069567	|118	|19|	24|	27|	33|	15
+|12|JR-KAYISILAR	|cliplex#3791130	chucky#8143736	|117	|36	|29|	21|	18	|13
+|13|KPT|	KaptanArnavut#1943149	Spinoza#7229150|	70|	24|	22	|7|	Veri Yok	|17
+
 #### 10 10 2020 Trios Turnuvası Sonuçları
 
 ||Takım Adı|	Oyuncular		|	Kill Toplamları|	Skor Toplamları|	Toplam Puanlar
