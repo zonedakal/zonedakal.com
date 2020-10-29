@@ -3,13 +3,14 @@ title: "Kurallar"
 permalink: /kurallar/
 author_profile: false
 ---
-## DUOS TURNUVASI
+## QUAD TURNUVASI
 
-* Turnuva 2li takımlar halinde gerçekleşecektir
+* Turnuva 4li takımlar halinde gerçekleşecektir
 * 3 saat boyunca istediğiniz kadar oyun oynanılabilecektir
 * Maçlardan erken çıkmak serbesttir
 * Takımlar turnuva bittikten sonra en iyi 4 oyunlarını internet sitesinde skor giriş bölümüne girecektir
-* Turnuva duos lobilerinde oynanacaktır. 2li takım halinde trios veya quad maç girmek skorun geçerliliğini iptal eder
+* Turnuva Quad lobilerinde oynanacaktır. Trios veya Duos maç girmek skorun geçerliliğini iptal eder
+* 2 veya 3 kişi olarak Quad lobilerinde oynanan maçlar geçersiz kabul edilecektir
 * Maç sırasında bir takım arkadaşınız oyundan düşer ise oynadığınız oyuna devam edebilirsiniz. Fakat maç bitiminden sonra da gelmez ise turnuvaya geri dönemezsiniz
 * Crossplay her zaman açık olacaktır
 * Her hafta oyuncuların oylarıyla sonraki haftanın oyun modu belirlenecektir
@@ -35,8 +36,8 @@ author_profile: false
 
 ### K/D Sınırlaması
 * Pro turnuvası için K/D sınırı yoktur
-* Semi-Pro turnuvası için takımdaki oyuncuların K/D toplamı 4 u geçmemelidir.
-- Örnek: 1. oyuncu K/D = 1.50, 2. oyuncu K/D = 2.00 Toplam K/D = 3.5 katılım için uygundur.
+* Semi-Pro turnuvası için takımdaki oyuncuların K/D toplamı 8 i geçmemelidir.
+- Örnek: 1. oyuncu K/D = 1.50, 2. oyuncu K/D = 2.00 3. oyuncu K/D = 1.50 4. oyuncu K/D = 1.50 Toplam K/D = 6.5 katılım için uygundur.
 
 ### En Güzel Hareket Ödülü
 Turnuvadan sonra en beğendiğiniz hareketinizi bize instagram sayfamızdan DM atabilirsiniz. Takım başı sadece 1 klip geçerli sayılacaktır. Bize yollanan klipler instagram sayfamızdan paylaşılacaktır. Bir sonraki turnuvamızdan önce en fazla beğeni alan klip sahibi canlı yayında açıklanacaktır ve o klibin sahibi en güzel hareket ödülümüzü alıp 100 TL kazanacaktır.
