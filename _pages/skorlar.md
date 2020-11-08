@@ -5,7 +5,7 @@ author_profile: false
 ---
 #### 07 11 2020 Quad Turnuvası Sonuçları
 
-||Takımlar	|Kill toplam|	yerleşme puanı|	Toplam puan
+||Takımlar	|Kill Toplam|	Yerleşme Puanı|	Toplam Puan
 |1|Kolsuzlar 900p HD izle|	286|	40	|326
 |2|MadBros & CoachBanana	|289|	31	|320
 |3|UNIQUE SQUAD|	261|	40	|301
@@ -17,7 +17,7 @@ author_profile: false
 |9|Team SAD	|189	|9	|198
 |10|ELITE	|148	|30	|178
 |11|KPT	|147|	6	|153
-|12|eksi|	136|	17	|153
+|12|Eksi|	136|	17	|153
 
 
 #### 25 10 2020 Duos Turnuvası Sonuçları
