@@ -3,6 +3,22 @@ title: "Skor Tablosu"
 permalink: /skorlar/
 author_profile: false
 ---
+#### 07 11 2020 Quad Turnuvası Sonuçları
+
+||Takımlar	|Kill toplam|	yerleşme puanı|	Toplam puan
+|1|Kolsuzlar 900p HD izle|	286|	40	|326
+|2|MadBros & CoachBanana	|289|	31	|320
+|3|UNIQUE SQUAD|	261|	40	|301
+|4|Tamtum's Crew|	225|	40	|265
+|5|WM'A	|217	|40	|257
+|6|AGGRESSIVE FLANKERS|	216	|40|	256
+|7|Bamgüm Team	|187|	23	|210
+|8|V-NOM	|176|	23	|199
+|9|Team SAD	|189	|9	|198
+|10|ELITE	|148	|30	|178
+|11|KPT	|147|	6	|153
+|12|eksi|	136|	17	|153
+
 
 #### 25 10 2020 Duos Turnuvası Sonuçları
 
